@@ -1,0 +1,48 @@
+#header {
+    height: 125px;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Exo 2";
+    font-weight: 700;
+    font-size: 12px;
+}
+
+#links {
+    position: relative;
+    background-color: #EEE;
+    bottom: 1;
+}
+
+#logo{
+    width: 458px;
+    height: 106px;
+    margin-left: 0px;
+    float: left;
+}
+
+#login {
+    margin-left: auto;
+    margin-right: 25px;
+    width: 200px;
+    height: 120px;
+    
+}
+<<<<<<< HEAD
+
+a:hover{
+    color: darkred;
+}
+
+a:visited{
+    color: purple;
+}
+=======
+
+a:hover{
+    color: darkred;
+}
+
+a:visited{
+    color: purple;
+}
